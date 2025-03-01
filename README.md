@@ -6,7 +6,7 @@ This project is a backend application built with Express.js and MongoDB. It prov
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coriuday/backend.git
+   git clone https://github.com/your_git_name/your_repo_name.git
    ```
 2. Navigate to the project directory:
    ```bash
